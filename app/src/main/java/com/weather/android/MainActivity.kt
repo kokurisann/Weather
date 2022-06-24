@@ -1,4 +1,4 @@
-package com.example.weather
+package com.weather.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
